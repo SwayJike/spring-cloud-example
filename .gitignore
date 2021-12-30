@@ -1,0 +1,8 @@
+# Project exclude paths
+/spring-cloud-api-commons/target/
+/spring-cloud-consumer-order80/target/
+/spring-cloud-eureka-server7001/target/
+/spring-cloud-eureka-server7002/target/
+/spring-cloud-payment8001/target/
+/spring-cloud-payment8002/target/
+/spring-cloud-payment8004/target/

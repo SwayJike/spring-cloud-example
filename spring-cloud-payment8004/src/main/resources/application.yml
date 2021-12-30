@@ -1,0 +1,9 @@
+server:
+  port: 8004
+spring:
+  application:
+    name: cloud-payment-service-zk
+  cloud:
+    zookeeper:
+#      zookeeper默认端口 2181,入住哪个zookeeper服务器,如果是集群在后面继续加以逗号分隔
+      connect-string: localhost:2181
